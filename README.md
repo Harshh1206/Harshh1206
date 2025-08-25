@@ -29,6 +29,6 @@
 ---
 
 ### 🌐 Connect With Me  
-- [LinkedIn](https://linkedin.com/in/your-link)  
-- [Portfolio](https://your-portfolio-link.com)  
+- [LinkedIn](https://www.linkedin.com/in/harsh-konde-397a71295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- [Instagram](https://www.instagram.com/harrrshhh.12?igsh=aTh2YTFqNXFsZGY5)  
 
