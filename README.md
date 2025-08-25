@@ -18,12 +18,7 @@
 - **ML/DS:** Pandas, NumPy, Scikit-learn, TensorFlow  
 - **Databases:** MySQL, MongoDB  
 - **Others:** Git, GitHub, REST APIs  
-
----
-
-### 📈 GitHub Stats  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshKonde&layout=compact&theme=tokyonight)  
+ 
 
 ---
 
