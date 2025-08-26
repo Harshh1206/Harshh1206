@@ -4,14 +4,6 @@
 
 ---
 
-### 🚀 About Me  
-- 🌱 Currently exploring **Java backend development** and **Machine Learning**  
-- 🤝 Open to collaborating on **DS/ML projects** & **Java applications**  
-- 🧩 Love solving problems and building efficient solutions  
-- 🎯 Goal: Combine **software engineering** with **data-driven AI**  
-
----
-
 ## 🛠️ Tech Stack  
 
 ### 🚩 Languages  
