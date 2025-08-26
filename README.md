@@ -12,16 +12,6 @@
 
 ---
 
-### 🛠️ Tech Stack  
-- **Languages:** Java, Python, SQL  
-- **Frameworks & Tools:** Spring Boot, React.js, Node.js  
-- **ML/DS:** Pandas, NumPy, Scikit-learn, TensorFlow  
-- **Databases:** MySQL, MongoDB  
-- **Others:** Git, GitHub, REST APIs  
- 
-
----
-
 ## 🛠️ Tech Stack  
 
 ### 🚩 Languages  
