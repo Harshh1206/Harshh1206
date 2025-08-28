@@ -55,22 +55,3 @@ I'm a passionate **Java Developer** and an enthusiast in **Data Science** and **
 </table>
 
 ---
-
-## 📊 GitHub Stats
-
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshh1206&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshh1206&layout=compact&theme=radical)
-
----
-
-## 🧩 LeetCode Progress
-
-<!-- Replace YOUR-LEETCODE-USERNAME with your LeetCode username -->
-[![LeetCode Stats](https://leetcard.jacoblin.cool/harrshh1206?theme=dark&font=Roboto&ext=contest)](https://leetcode.com/YOUR-LEETCODE-USERNAME/)
-
----
-
-## 🌐 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/harsh-konde-397a71295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [Instagram](https://www.instagram.com/harrrshhh.12?igsh=aTh2YTFqNXFsZGY5)
